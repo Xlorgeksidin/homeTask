@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/BankProducts/src/main/java/ru/sber/bank/behaviour/Debitable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BankProducts/src/main/java/ru/sber/bank/behaviour/Replenishable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BankProducts/src/main/java/ru/sber/bank/behaviour/Requestable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BankProducts/src/main/java/ru/sber/bank/products/cards/AbstractCard.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BankProducts/src/main/java/ru/sber/bank/products/cards/CreditCard.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BankProducts/src/main/java/ru/sber/bank/products/cards/DebitCard.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BankProducts/src/main/java/ru/sber/bank/products/cards/ForeignCurrencyDebitCard.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BankProducts/src/main/java/ru/sber/bank/products/deposits/AbstractDeposit.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WeatherTests/src/main/java/ru/home_task/weather/services/ServiceEnum.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/WeatherTests/src/test/java/RunCucumberTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WeatherTests/src/test/java/steps/PositiveCurrentWeatherSteps.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WeatherTests/src/test/resources/features/CurrentWeatherTest.feature" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
